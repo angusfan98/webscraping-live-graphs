@@ -1,0 +1,32 @@
+h1 {
+    font-family:Georgia,serif;
+    color:#666666;
+    font-size:30px;
+    line-height:1em;
+    margin:0 0 0 60px;
+    text-align: center;
+}
+   
+h1 strong{
+    color:#b60505;
+    display:block;
+    font-size:75px;
+    font-weight:normal;
+    letter-spacing:-3.5px;
+    line-height:1em;
+    text-align: center;
+    padding: 10px;
+}
+
+h2{
+    font-family:Georgia,serif;
+    color:black;
+    font-size:30px;
+    line-height:1em;
+    margin:0 0 0 60px;
+    text-align: center;
+}
+
+html{
+    height: 100%;
+}
